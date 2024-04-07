@@ -1,0 +1,1 @@
+This my Second Android APP using java , in this app i make two screens , first Activity is use to switch game , using Intent method in the java which help me , when user click on start game its goes to second activity
